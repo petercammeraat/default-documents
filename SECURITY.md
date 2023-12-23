@@ -1,6 +1,6 @@
 # Security
 
-This document specifies the security process for {project_name}.
+This document specifies the security process for this project.
 
 ## Versions
 
