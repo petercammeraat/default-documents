@@ -15,7 +15,7 @@ Examples of unacceptable behavior:
 - Use of offensive language or imagery
 - Harassment or disrespectful comments
 - Posting sexually explicit or violent material
-- Publishing others private information without permission
+- Publishing others' private information without permission
 - Violent threats or language directed against another person
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Other conduct which could reasonably be considered inappropriate in a professional setting
